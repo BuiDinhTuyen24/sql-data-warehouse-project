@@ -140,7 +140,7 @@ These queries are optimized for:
 - Demonstrated strong SQL and data modeling skills  
 
 
-## About Me
+## 👤 About Me
 
 Hi! My name is Bui Dinh Tuyen. I'm a student with a strong interest in **Data Analytics, Data Science, and Data Engineering**.  
 I enjoy working with data to design efficient data models, build data pipelines, and generate insights through analytical queries.
